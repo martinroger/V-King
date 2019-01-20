@@ -1,3 +1,8 @@
+The target is to create a cheap 500mmx500mmx500mm version !
+
+
+Original Readme by Roy :
+
 # V-King Pro 3d Printer
 The non rod CoreXY V-Slot 3d Printer by Roy Berntsen
 
